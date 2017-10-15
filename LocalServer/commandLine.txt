@@ -1,0 +1,10 @@
+To start server Apache:
+
+sudo su
+chmod 777 xampp.run
+./xampp.run
+
+cd /opt/lampp
+ls
+chmod 777 manager-linux-x64.run
+./manager-linux-x64.run

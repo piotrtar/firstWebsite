@@ -1,0 +1,3 @@
+directory /opt/lampp:
+
+cmd: sudo chown -R piotr:piotr htdocs
